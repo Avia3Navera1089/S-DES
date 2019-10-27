@@ -1,5 +1,7 @@
 # S-DES
 
+// terribly sorry this will be cleaned up for your viewing pleasure as soon a I can manage.
+
 DES simplified by my curriculum's standards
 
 key plaintext
